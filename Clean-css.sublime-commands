@@ -1,0 +1,4 @@
+[{
+  "caption": "clean-css: Minify CSS",
+  "command": "clean_css_minify"
+}]
