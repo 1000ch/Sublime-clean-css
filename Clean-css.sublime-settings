@@ -1,0 +1,7 @@
+
+{
+  "compatibility": "*",
+  "format": "beautify",
+  "level": 1,
+  "inline": ["local"]
+}

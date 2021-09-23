@@ -1,0 +1,7 @@
+[{
+  "caption": "clean-css: Format CSS",
+  "command": "clean_css_format"
+}, {
+  "caption": "clean-css: Minify CSS",
+  "command": "clean_css_minify"
+}]
