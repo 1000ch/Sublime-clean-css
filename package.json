@@ -6,7 +6,7 @@
     "postversion": "git push && git push --tags"
   },
   "dependencies": {
-    "clean-css": "^5.1.5",
+    "clean-css": "^5.2.2",
     "get-stdin": "^9.0.0"
   },
   "engines": {
