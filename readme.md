@@ -1,4 +1,4 @@
-# Sublime-clean-css [![Dependency Status](https://david-dm.org/1000ch/Sublime-clean-css.svg)](https://david-dm.org/1000ch/Sublime-clean-css)
+# Sublime-clean-css
 
 A plugin for [Sublime Text](https://www.sublimetext.com/) providing an interface to [clean-css](https://github.com/clean-css/clean-css).
 
