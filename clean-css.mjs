@@ -1,4 +1,4 @@
-import {Buffer} from 'buffer';
+import {Buffer} from 'node:buffer';
 import getStdin from 'get-stdin';
 import CleanCSS from 'clean-css';
 
@@ -22,7 +22,7 @@ async function minify(data) {
     returnPromise: true,
   });
 
-  const {styles} = await cleanCSS.minify(css);
+  const output = await cleanCSS.minify(css);
 
-  return styles;
+  return output.styles;
 }
